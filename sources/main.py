@@ -1,5 +1,5 @@
 # coding: utf-8
-from baseschedule import Configuration, Datemanager, Cursor, Adapter, RecordManager, TimeCron
+from baseschedule import Configuration, Datemanager, DatabaseConnection, Adapter, RecordManager, TimeCron
 import datetime
 
 

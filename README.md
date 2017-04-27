@@ -3,8 +3,8 @@ Base Schedule
 
 Librairie de classes permettant de:
 
- -Mapper certaines fonctionnalité SQL (dévelopé pour MySQL)
- -Sauvegarder un ensemble de requêtes dans des fichiers pour exécution programmées.
+ - Mapper certaines fonctionnalité SQL (dévelopé pour MySQL)
+ - Sauvegarder un ensemble de requêtes dans des fichiers pour exécution programmées.
 
 
 Documentation
@@ -59,8 +59,8 @@ Dépendances
 [python3.4](https://www.python.org/downloads/)
 
 #### Linux
-apt-get install build-essential libssl-dev libffi-dev python3-dev
-pip install mysql-connector
+  - apt-get install build-essential libssl-dev libffi-dev python3-dev
+  - pip install mysql-connector==2.1.4
 
 
 TEST BASE DE DONNEE
