@@ -3,8 +3,8 @@ Base Schedule
 
 Librairie de classes permettant de:
 
-  -Mapper certaines fonctionnalité SQL (dévelopé pour MySQL)
-  -Sauvegarder un ensemble de requêtes dans des fichiers pour exécution programmées.
+  - Mapper certaines fonctionnalité SQL (dévelopé pour MySQL)
+  - Sauvegarder un ensemble de requêtes dans des fichiers pour exécution programmées.
 
 
 Documentation
@@ -55,9 +55,9 @@ Dépendances
 
 #### Windows
 
-  -[mysqlconnector](https://dev.mysql.com/downloads/connector/odbc/)
+  - [mysqlconnector](https://dev.mysql.com/downloads/connector/odbc/)
 
-  -[python3.4](https://www.python.org/downloads/)
+  - [python3.4](https://www.python.org/downloads/)
 
 #### Linux
 
